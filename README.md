@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
+<p align="center">
   <!-- github stats, most languages, streak -->
   <img src="https://github-readme-stats.vercel.app/api?username=muzigae&show_icons=true&theme=tokyonight" height="150" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzigae&layout=compact&theme=tokyonight&hide=html" height="150" alt="langs"/>
