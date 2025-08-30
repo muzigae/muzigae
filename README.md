@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- github stats, most languages, streak -->
-<img src="https://github-readme-stats.vercel.app/api?username=muzigae&show_icons=true&theme=tokyonight" height="200" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzigae&layout=compact&theme=tokyonight" height="200" alt="langs"/>
-<img src="https://streak-stats.demolab.com?user=muzigae&theme=tokyonight" height="200" alt="streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=muzigae&show_icons=true&theme=tokyonight" height="100" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzigae&layout=compact&theme=tokyonight" height="100" alt="langs"/>
+<img src="https://streak-stats.demolab.com?user=muzigae&theme=tokyonight" height="100" alt="streak"/>
