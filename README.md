@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!-- github stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<GITHUB_ID>&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzigae&show_icons=true&theme=tokyonight)
 
 <!-- most languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<GITHUB_ID>&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzigae&layout=compact&theme=tokyonight)
 
 <!-- streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=<GITHUB_ID>&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=muzigae&theme=tokyonight)
