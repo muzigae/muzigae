@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- github stats -->
+<!-- github stats, most languages, streak -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzigae&show_icons=true&theme=tokyonight)
-<!-- most languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzigae&layout=compact&theme=tokyonight)
-<!-- streak -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=muzigae&theme=tokyonight)
