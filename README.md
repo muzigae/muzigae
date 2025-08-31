@@ -19,11 +19,13 @@ Hello, I'm Jonghwan Seo.
 
 <p align="center">
   <!-- github stats, most languages, streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=muzigae&show_icons=true&theme=tokyonight" height="150" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzigae&layout=compact&theme=tokyonight&hide=html" height="150" alt="langs"/>
-  <!-- <img src="https://streak-stats.demolab.com?user=muzigae&theme=tokyonight" height="150" alt="streak"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=muzigae&show_icons=true&theme=highcontrast" height="150" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzigae&layout=compact&theme=highcontrast&hide=html" height="150" alt="langs"/>
+  <!-- <img src="https://streak-stats.demolab.com?user=muzigae&theme=highcontrast" height="150" alt="streak"/> -->
 </p>
 
+<p align="center">
 <!-- solved.ac / boj -->
-[![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=mujigae)](https://solved.ac/profile/mujigae)
-[![codeforces](https://cf.leed.at?id=mujigae)](https://codeforces.com/profile/mujigae)
+  [![solved.ac](https://mazassumnida.wtf/api/generate_badge?boj=mujigae)](https://solved.ac/profile/mujigae)
+  [![codeforces](https://cf.leed.at?id=mujigae)](https://codeforces.com/profile/mujigae)
+<\p>
