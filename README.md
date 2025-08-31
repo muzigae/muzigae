@@ -23,3 +23,6 @@ Hello, I'm Jonghwan Seo.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzigae&layout=compact&theme=tokyonight&hide=html" height="150" alt="langs"/>
   <!-- <img src="https://streak-stats.demolab.com?user=muzigae&theme=tokyonight" height="150" alt="streak"/> -->
 </p>
+
+<!-- solved.ac / boj -->
+[![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID)](https://solved.ac/profile/mujigae)
