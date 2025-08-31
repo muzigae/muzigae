@@ -27,9 +27,9 @@ Hello, I'm Jonghwan Seo.
 <!-- solved.ac / boj -->
 <div align="center">
   <a href="https://solved.ac/profile/mujigae">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mujigae" height="200" />
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mujigae"/>
   </a>
   <a href="https://codeforces.com/profile/mujigae">
-    <img src="https://cf.leed.at?id=mujigae" height="200" />
+    <img src="https://cf.leed.at?id=mujigae"/>
   </a>
 </div>
