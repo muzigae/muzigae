@@ -24,7 +24,7 @@ Hello, I'm Jonghwan Seo.
   <!-- <img src="https://streak-stats.demolab.com?user=muzigae&theme=highcontrast" height="150" alt="streak"/> -->
 </p>
 
-<p align="center">
+<p>
 <!-- solved.ac / boj -->
   [![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=mujigae)](https://solved.ac/profile/mujigae)
   [![codeforces](https://cf.leed.at?id=mujigae)](https://codeforces.com/profile/mujigae)
