@@ -26,6 +26,6 @@ Hello, I'm Jonghwan Seo.
 
 <p align="center">
 <!-- solved.ac / boj -->
-  [![solved.ac](https://mazassumnida.wtf/api/generate_badge?boj=mujigae)](https://solved.ac/profile/mujigae)
+  [![solved.ac](https://mazassumnida.wtf/api/generate_badge?boj=mujigae)](https://solved.ac/mujigae)
   [![codeforces](https://cf.leed.at?id=mujigae)](https://codeforces.com/profile/mujigae)
 </p>
