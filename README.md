@@ -26,3 +26,4 @@ Hello, I'm Jonghwan Seo.
 
 <!-- solved.ac / boj -->
 [![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=mujigae)](https://solved.ac/profile/mujigae)
+![codeforces](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dmujigae&query=%24.result%5B0%5D.rating&label=Codeforces&suffix=%20rating)
