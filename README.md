@@ -1,20 +1,5 @@
 ## Good
 
-<!--
-**muzigae/muzigae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Hello, I'm Jonghwan Seo.
 
 <!-- github stats, most languages, streak -->
@@ -25,5 +10,11 @@ Hello, I'm Jonghwan Seo.
 </p>
 
 <!-- solved.ac / boj -->
-[![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=mujigae)](https://solved.ac/profile/mujigae)
-[![codeforces](https://cf.leed.at?id=mujigae)](https://codeforces.com/profile/mujigae)
+<p>
+  <a href="https://solved.ac/profile/mujigae">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mujigae" alt="solved.ac profile" />
+  </a>
+  <a href="https://codeforces.com/profile/mujigae">
+    <img src="https://cf.leed.at?id=mujigae" alt="codeforces profile" />
+  </a>
+</p>
