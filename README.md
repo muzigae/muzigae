@@ -25,4 +25,4 @@ Hello, I'm Jonghwan Seo.
 </p>
 
 <!-- solved.ac / boj -->
-[![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID)](https://solved.ac/profile/mujigae)
+[![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=mujigae)](https://solved.ac/profile/mujigae)
