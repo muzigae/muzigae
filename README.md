@@ -12,3 +12,12 @@ Hello, I'm Jonghwan Seo.
 <!-- solved.ac / boj -->
 [![solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=mujigae)](https://solved.ac/mujigae)
 [![codeforces](https://cf.leed.at?id=mujigae)](https://codeforces.com/profile/mujigae)
+
+<div align="center">
+  <a href="https://solved.ac/mujigae">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=mujigae" alt="solved.ac" />
+  </a>
+  <a href="https://codeforces.com/profile/mujigae">
+    <img src="https://cf.leed.at?id=mujigae" alt="codeforces" />
+  </a>
+</div>
