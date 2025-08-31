@@ -17,13 +17,19 @@ Here are some ideas to get you started:
 
 Hello, I'm Jonghwan Seo.
 
+<!-- github stats, most languages, streak -->
 <p align="center">
-  <!-- github stats, most languages, streak -->
   <img src="https://github-readme-stats.vercel.app/api?username=muzigae&show_icons=true&theme=highcontrast" height="150" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzigae&layout=compact&theme=highcontrast&hide=html" height="150" alt="langs"/>
   <!-- <img src="https://streak-stats.demolab.com?user=muzigae&theme=highcontrast" height="150" alt="streak"/> -->
 </p>
 
 <!-- solved.ac / boj -->
-  [![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=mujigae)](https://solved.ac/profile/mujigae)
-  [![codeforces](https://cf.leed.at?id=mujigae)](https://codeforces.com/profile/mujigae)
+<div align="center">
+  <a href="https://solved.ac/profile/mujigae">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mujigae" height="150" />
+  </a>
+  <a href="https://codeforces.com/profile/mujigae">
+    <img src="https://cf.leed.at?id=mujigae" height="150" />
+  </a>
+</div>
